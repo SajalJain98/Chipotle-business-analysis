@@ -53,4 +53,12 @@ The analysis was performed using Python, Pandas, Numpy, Seaborn, and Matplotlib.
    ```bash
    git clone https://github.com/SajalJain98/Chipotle-business-analysis.git
    cd Chipotle-business-analysis
+
+   ## Project Structure
+   ├── Chipotle.ipynb          # Main analysis notebook  
+├── chipotle.tsv            # Dataset  
+├── images/                 # Saved plots and visualizations  
+├── requirements.txt        # Project dependencies  
+├── README.md               # Project documentation  
+└── LICENSE                 # License file
   
